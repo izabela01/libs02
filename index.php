@@ -7,6 +7,7 @@ use these\Member;
 use these\Librarian;
 use these\Books;
 
+echo "iz";
 
 //  PEOPLE CLASS - Instansiating a new object instance
 echo 'Person Class Code' . PHP_EOL;
